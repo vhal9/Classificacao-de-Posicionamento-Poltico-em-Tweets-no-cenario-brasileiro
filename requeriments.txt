@@ -1,0 +1,9 @@
+jupyter
+tweepy
+nltk
+spacy
+pandas
+os
+unidecode
+re
+sklearn
